@@ -13,3 +13,6 @@ a felhasználó által megadott szót összehasonlítjuk a tömbből kiválaszto
 - ha benne van a betű de jó helyen
 - ha nincs benne a betű
 - ha kitalálta a szót
+
+Repka András (RepkaA)
+Ulrich Bence (Blaj3n)
